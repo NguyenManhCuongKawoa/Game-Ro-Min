@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Ham.cpp
+E:\code trên visual\Project1\Project1\Ham.cpp(173,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(552,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(556,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(560,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(564,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(591,113): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(593,116): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(595,116): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(597,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(608,94): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(611,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(613,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(615,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\code trên visual\Project1\Project1\Ham.cpp(617,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+  Project1.vcxproj -> E:\code trên visual\Project1\Debug\gamedomin.exe

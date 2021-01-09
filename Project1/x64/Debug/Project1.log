@@ -1,0 +1,21 @@
+﻿  Console.cpp
+E:\CODE\code trên visual\GAME DO MIN\Project1\Console.cpp(108,42): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
+  Ham.cpp
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(175,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(631,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(635,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(639,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(643,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(647,91): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(676,113): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(678,116): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(680,116): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(682,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(693,94): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(696,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(698,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(700,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\GAME DO MIN\Project1\Ham.cpp(702,117): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+  main.cpp
+  Generating Code...
+  Project1.vcxproj -> E:\CODE\code trên visual\GAME DO MIN\x64\Debug\gamedomin.exe
